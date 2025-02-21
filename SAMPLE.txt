@@ -1,2 +1,3 @@
 THIS IS THE SAMPLE CODE
 this is a new line added at github repos
+this is the third line
